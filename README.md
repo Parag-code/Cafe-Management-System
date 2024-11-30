@@ -73,10 +73,6 @@ This project is a basic implementation and can be enhanced with the following fe
 - **Advanced Input Validation**: Further improving input validation to handle edge cases such as invalid item names or prices.
 - **Payment Processing**: Integrating payment gateway APIs for real online transactions.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## Acknowledgments
 - Python documentation and tutorials were used to understand and implement the basic functionality.
 - No external libraries or dependencies were used in this basic version of the project.
