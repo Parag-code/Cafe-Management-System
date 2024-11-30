@@ -1,0 +1,23 @@
+Welcome to the Veg Spot Restaurant, Here is the menu:
+Pizza: Rs100
+Pasta: Rs80
+Burger: Rs60
+Cold Coffee: Rs50
+Salad: Rs50
+Shake: Rs60
+Momos: Rs50
+
+Enter the name of item you want to order: Pizza
+Your Pizza has been added to your order.
+
+Do you want to order another item? (Yes/No): Yes
+Enter the name of item you want to order: Pasta
+Your Pasta has been added to your order.
+
+Do you want to order another item? (Yes/No): No
+Your Order Total is Rs180.
+
+What is your payment method? (Cash/Online): Cash
+You have to pay Rs180 using Cash.
+
+Thanks For Coming!
